@@ -1,8 +1,8 @@
 ![alt text](blood-pressure-drug-recall-lg.jpg)
 
-### FinTech application to mass communicate drug recalls, prescription changes and over-the-counter (OTC) medicines for Consumers
+# FinTech application to mass communicate drug recalls, prescription changes and over-the-counter (OTC) medicines for Consumers
 
-## Background
+### Background
 
 Every year, there are thousands of recalls issued by the Federal Drug Administration. A drug recall occurs when a prescription or over-the-counter medicine is removed from the market because it is found to be either defective or potentially harmful. Sometimes, the makers of the drug will discover a problem with their drug and voluntarily recall it. 
 
@@ -20,7 +20,7 @@ Today as Baby Boomers continue to leave the American workforce, many are faced w
 
 
 
-## References
+### References
 
 * 79 Fintech Companies & Startups to Keep in Your Back Pocket  https://www.bcbsm.com/content/dam/microsites/medicare/documents/drug-recall-list.pdf
 * Fundrise Website                                                     https://www.webmd.com/a-to-z-guides/what-is-a-drug-recall
@@ -36,7 +36,7 @@ Today as Baby Boomers continue to leave the American workforce, many are faced w
 
 
 
-## API Sources
+### API Sources
 * GoodRX          https://www.goodrx.com/developer/documentation
 * GoodRX          https://lhncbc.nlm.nih.gov/RxNav/APIs/index.html
 * GoodRX          Validates and saves customer payment information to payment processor. | CaryRx Fulfilment API
