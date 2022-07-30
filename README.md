@@ -37,7 +37,9 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 
 ![alt text](Gruber-drug-recall-CDC-report.png)
 
+### Goal 
 
+Creating an applicaiton helps consumers to find out the availablity of medications in each local of phamarcy and prevents consumer receiving recall medications. 
 
 ### References
 
