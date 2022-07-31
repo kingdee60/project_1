@@ -1,4 +1,4 @@
-<img src="Images\blood-pressure-drug-recall-lg.jpg"  width="800" height="300">
+<img src="Images\blood-pressure-drug-recall-lg.jpg"  width="800" height="450">
 
 # FinTech Application to Modernize Drug Recalls, Prescription Changes and Over-The-Counter (OTC) Medicines for Consumers
 
@@ -40,6 +40,10 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 ### Project Objective 
 
 Create a solution that helps consumers to find the appropiate medication in a local phamarcy and to minimize untimely recall logistics with drug pharmaceutical companies, pharmacies, insurance claim providers and medical professionals. 
+
+
+
+
 
 ### References
 
