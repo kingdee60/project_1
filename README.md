@@ -39,7 +39,7 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 
 ### Project Objective 
 
-Create a solution that helps consumers to find the appropiate medication in a local phamarcy and to minimize untimely recall logistics with drug pharmaceutical companies, pharmacies, and medical professionals. 
+Create a solution that helps consumers to find the appropiate medication in a local phamarcy and to minimize untimely recall logistics with drug pharmaceutical companies, pharmacies, insurance claim providers and medical professionals. 
 
 ### References
 
