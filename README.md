@@ -1,4 +1,4 @@
-![alt text](blood-pressure-drug-recall-lg.jpg)
+![Images](blood-pressure-drug-recall-lg.jpg)
 
 # FinTech Application to Modernize Drug Recalls, Prescription Changes and Over-The-Counter (OTC) Medicines for Consumers
 
@@ -21,21 +21,21 @@ Today as Baby Boomers continue to leave the American workforce, millions of peop
 
 Legal drugs and medicines can prove just as dangerous as those on the street. Every year, there are thousands of recalls issued by the Federal Drug Administration (FDA). **However, the FDA is not required to publicly recall products** (Laguna 2022). A drug recall occurs when a prescription or over-the-counter medicine is removed from the market because it is found to be either defective or potentially harmful. Sometimes, the makers of the drug will discover a problem with their product and voluntarily recall it. 
 
-![alt text](\Images\top-reasons-drug-recalls.png)
+![Images](top-reasons-drug-recalls.png)
 
 Other times, the FDA will request that the medicine be recalled after receiving reports of problems from the public (WebMD 2022). Once on the market, the FDA, along with the makers of prescription drugs, continue to monitor the medicine for any unforeseen problems (WebMD 2022). Unfortunately, recalls and changes to prescription drugs are often `untimely` and `costly` to the consumer which may result in financial implications or death. Adverse effects can lead to approximately 700,000 emergency room visits each year.
 
-![alt text](\Images\adverse-drug-events.png)
+![Images](adverse-drug-events.png)
 
 Prescription drugs have become an increasingly important part of U.S. health care, as evidenced by the growth in nationwide spending on those drugs from 1980 to 2018 (Congressional Budget Office 2022).  Over this period, such spending increased more than tenfold in real terms (that is, with the effects of economywide inflation excluded). 
 
 The rising costs of prescription drugs and the logistical management of drug recalls impacts many industries across America. 
 
-![alt text](\Images\product-recall-impacted-industries.png)
+![Images](product-recall-impacted-industries.png)
 
 Consumers’ use of prescription drugs has increased over time. Today, approximately 82% of Americans take at least one prescription drug. 
 
-![alt text](\Images\Gruber-drug-recall-CDC-report.png)
+![Images](Gruber-drug-recall-CDC-report.png)
 
 ### Project Objective 
 
