@@ -37,7 +37,7 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 
 ![alt text](Gruber-drug-recall-CDC-report.png)
 
-### Goal 
+### Project Objective 
 
 Create a solution that helps consumers to find the appropiate medication in a local phamarcy and to minimize untimely recall logistics with drug pharmaceutical companies, pharmacies, and medical professionals. 
 
