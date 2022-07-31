@@ -52,7 +52,9 @@ Creating an applicaiton helps consumers to find out the availablity of medicatio
 * National Recall Alert Center          https://www.recallalert.org/
 * Congressional Budget Office          https://www.cbo.gov/data/budget-economic-data
 * California Health & Human Safety- "Prescription Drug Wholesale Acquisition Cost (WAC) Increases"  https://data.chhs.ca.gov/dataset/prescription-drug-wholesale-acquisition-cost-wac-increases
-
+* FDA Drug Recall Statistics  https://www.maylightfootlaw.com/blogs/fda-drug-recall-statistics/#state
+* Centers for Medicare & Medicaid Services https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems
+* Medicaid Spending by Drug https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicaid-spending-by-drug
 
 
 ### API Sources
