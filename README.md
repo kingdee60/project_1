@@ -22,7 +22,7 @@ Today as Baby Boomers continue to leave the American workforce, millions of peop
 
 Legal drugs and medicines can prove just as dangerous as those on the street. Every year, there are thousands of recalls issued by the Federal Drug Administration (FDA). **However, the FDA is not required to publicly recall products** (Laguna 2022). A drug recall occurs when a prescription or over-the-counter medicine is removed from the market because it is found to be either defective or potentially harmful. Sometimes, the makers of the drug will discover a problem with their product and voluntarily recall it. 
 
-<img src="Images\blood-pressure-drug-recall-lg.jpg" width="1440" height="650">
+<img src="Images\top-reasons-drug-recalls.png" width="800" height="1196">
 
 Other times, the FDA will request that the medicine be recalled after receiving reports of problems from the public (WebMD 2022). Once on the market, the FDA, along with the makers of prescription drugs, continue to monitor the medicine for any unforeseen problems (WebMD 2022). Unfortunately, recalls and changes to prescription drugs are often `untimely` and `costly` to the consumer which may result in financial implications or death. Adverse effects can lead to approximately 700,000 emergency room visits each year.
 
