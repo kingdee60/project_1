@@ -4,12 +4,20 @@
 
 ### Technology Advancement 
 
+<<<<<<< HEAD
 A FinTech solution to revolutionize and connect medical pharmaceutical companies, drug pharmacies, medical practitioners, and insurance providers. 
+=======
+A FinTech solution to revolutionize and connect medical pharmaceutical companies, drug pharmacies, medical practitioners, and insurance providers to consumers. 
+>>>>>>> c9e0695abab5d5759dab28d77e07c8ad60b9b2d0
 
 
 ### Problem Statement
 
+<<<<<<< HEAD
 Today as Baby Boomers continue to leave the American workforce, millions of people are now faced with the high cost of medical care and prescription drugs on a fixed income. There are many accounts where Americans have been forced with a decision to either replenish their medical prescriptions or pay their household bills. Millions of dollars are spent as a result of recalls and prescription drug changes. Opportunities exist to improve:
+=======
+Today as Baby Boomers continue to leave the American workforce, millions of people are now faced with the high cost of medical care and prescription drugs on a fixed income. There are many accounts where Americans have been forced with a decision to either replenish their medical prescriptions or pay their household bills. In addition, millions of dollars are spent as a result of recalls and prescription drug changes. Opportunities exist to improve:
+>>>>>>> c9e0695abab5d5759dab28d77e07c8ad60b9b2d0
 
 * `Physicians` awareness of recalls and the need for prescription drug changes for their patients
 * `Consumer` awareness and notification of recalls specific to their medical condition and prescription 
@@ -37,7 +45,13 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 
 ![alt text](Gruber-drug-recall-CDC-report.png)
 
+<<<<<<< HEAD
 
+=======
+### Project Objective 
+
+Create a solution that helps consumers to find the appropiate medication in a local phamarcy and to minimize untimely recall logistics with drug pharmaceutical companies, pharmacies, and medical professionals. 
+>>>>>>> c9e0695abab5d5759dab28d77e07c8ad60b9b2d0
 
 ### References
 
@@ -50,7 +64,13 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 * National Recall Alert Center          https://www.recallalert.org/
 * Congressional Budget Office          https://www.cbo.gov/data/budget-economic-data
 * California Health & Human Safety- "Prescription Drug Wholesale Acquisition Cost (WAC) Increases"  https://data.chhs.ca.gov/dataset/prescription-drug-wholesale-acquisition-cost-wac-increases
+<<<<<<< HEAD
 
+=======
+* FDA Drug Recall Statistics  https://www.maylightfootlaw.com/blogs/fda-drug-recall-statistics/#state
+* Centers for Medicare & Medicaid Services https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems
+* Medicaid Spending by Drug https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicaid-spending-by-drug
+>>>>>>> c9e0695abab5d5759dab28d77e07c8ad60b9b2d0
 
 
 ### API Sources
@@ -63,6 +83,10 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c9e0695abab5d5759dab28d77e07c8ad60b9b2d0
 
 
 
