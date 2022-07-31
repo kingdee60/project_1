@@ -57,6 +57,7 @@ Create a solution that helps consumers to find the appropiate medication in a lo
 * Congressional Budget Office          https://www.cbo.gov/data/budget-economic-data
 * California Health & Human Safety- "Prescription Drug Wholesale Acquisition Cost (WAC) Increases"  https://data.chhs.ca.gov/dataset/prescription-drug-wholesale-acquisition-cost-wac-increases
 * FDA Drug Recall Statistics  https://www.maylightfootlaw.com/blogs/fda-drug-recall-statistics/#state
+* FDA Drug Recall Statistics and data https://datadashboard.fda.gov/ora/cd/recalls.htm
 * Centers for Medicare & Medicaid Services https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems
 * Medicaid Spending by Drug https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicaid-spending-by-drug
 
