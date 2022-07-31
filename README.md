@@ -1,4 +1,4 @@
-![Images](blood-pressure-drug-recall-lg.jpg)
+[Images](blood-pressure-drug-recall-lg.jpg)
 
 # FinTech Application to Modernize Drug Recalls, Prescription Changes and Over-The-Counter (OTC) Medicines for Consumers
 
