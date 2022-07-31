@@ -39,7 +39,7 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 
 ### Goal 
 
-Creating an applicaiton helps consumers to find out the availablity of medications in each local of phamarcy and prevents consumer receiving recall medications. 
+Create a solution that helps consumers to find the appropiate medication in a local phamarcy and to minimize untimely recall logistics with drug pharmaceutical companies, pharmacies, and medical professionals. 
 
 ### References
 
