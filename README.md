@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<img src="Images\blood-pressure-drug-recall-lg.jpg" width="1000" height="450">
-=======
 <img src="Images\blood-pressure-drug-recall-lg.jpg"  width="1000" height="450">
->>>>>>> 2deaaa49427c1378d6fedb4319d0cf498f3bfabf
 
 # FinTech Application to Modernize Drug Recalls, Prescription Changes and Over-The-Counter (OTC) Medicines for Consumers
 
