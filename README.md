@@ -55,6 +55,7 @@ Create a solution that helps consumers to find the appropiate medication in a lo
 * FDA Drug Recall Statistics  https://www.maylightfootlaw.com/blogs/fda-drug-recall-statistics/#state
 * Centers for Medicare & Medicaid Services https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems
 * Medicaid Spending by Drug https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicaid-spending-by-drug
+* WalGreens & CVS Locations https://www.scrapehero.com/location-reports
 
 
 ### API Sources
@@ -64,6 +65,7 @@ Create a solution that helps consumers to find the appropiate medication in a lo
 * Pfizer                https://www.pfizercentreone.com/api-finder
 * WalGreens             https://developer.walgreens.com/sites/default/files/v1_RXRefillAPI.html
 * Google Earth          https://developers.google.com/earth-engine/apidocs
+* FEDEX                 https://datadashboard.fda.gov/ora/api/index.htm
 
 
 
