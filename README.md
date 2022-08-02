@@ -5,11 +5,11 @@
 ### Technology Advancement 
 
 A FinTech solution to revolutionize and connect medical pharmaceutical companies, drug pharmacies, medical practitioners, and insurance providers to consumers. 
-
+<img src="Images\FPME.png"  width="1000" height="425">
 
 ### Problem Statement
 
-Today as Baby Boomers continue to leave the American workforce, millions of people are now faced with the high cost of medical care and prescription drugs on a fixed income. There are many accounts where Americans have been forced with a decision to either replenish their medical prescriptions or pay their household bills. In addition, millions of dollars are spent as a result of recalls and prescription drug changes. Opportunities exist to improve:
+Today as Baby Boomers continue to leave the American workforce, millions of people are now faced with the high cost of medical care and prescription drugs on a fixed income. There are many accounts where Americans have been forced with a decision to either replenish their medical prescriptions or pay their household bills due to rising costs. In addition, millions of dollars are spent as a result of recalls and prescription drug changes. Opportunities exist to improve:
 
 * `Physicians` awareness of recalls and the need for prescription drug changes for their patients
 * `Consumer` awareness and notification of recalls specific to their medical condition and prescription 
