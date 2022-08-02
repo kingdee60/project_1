@@ -48,11 +48,11 @@ Create a solution that helps consumers to find the appropiate medication in a lo
 
 ### Questions Answered
 * How much money is spent on medicinal drug recalls?
-  ** Drug recalls and prescription changes cost Americans millions of dollars annually. 
+  * Drug recalls and prescription changes cost Americans millions of dollars annually. 
 * How much are Americans affected by drug recalls? And who is involved?
-  ** The United States experiences more drug recalls than any other country in the world. Almost 15,000 drugs have been recalled in the last decade. Drug pharmaceutical companies, pharmacies, insurance claim providers and medical professionals are all involved in drug recalls.  The medical professionals and patients are often the last to be informed.  
+  * The United States experiences more drug recalls than any other country in the world. Almost 15,000 drugs have been recalled in the last decade. Drug pharmaceutical companies, pharmacies, insurance claim providers and medical professionals are all involved in drug recalls.  The medical professionals and patients are often the last to be informed.  
 * Is there a FinTech solution for this problem? 
-  ** The FPME will allow for open communication between everyone within the ecosystem, coordinate status updates, provide better health care management, and more transparency for patients. 
+  * The FPME will allow for open communication between everyone within the ecosystem, coordinate status updates, provide better health care management, and more transparency for patients. 
 
 
 ### References
