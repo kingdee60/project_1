@@ -29,7 +29,7 @@ Other times, the FDA will request that the medicine be recalled after receiving 
 
 Prescription drugs have become an increasingly important part of U.S. health care, as evidenced by the growth in nationwide spending on those drugs from 1980 to 2018 (Congressional Budget Office 2022).  Over this period, such spending increased more than tenfold in real terms (that is, with the effects of economywide inflation excluded). 
 
-The rising costs of prescription drugs and the logistical management of drug recalls impacts many industries across America. 
+The rising costs of prescription drugs and the logistical management of drug recalls impacts many industries across America. The table below only captures a small portion of estimated insurance claims that are filed annually.  This table does not include the recalls from the pharmaceutical companies. 
 
 <img src="Images\product-recall-impacted-industries.png" width="800" height="600">
 
@@ -41,8 +41,13 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 
 Create a solution that helps consumers to find the appropiate medication in a local phamarcy and to minimize untimely recall logistics with drug pharmaceutical companies, pharmacies, insurance claim providers and medical professionals. 
 
-
-
+### Questions Answered
+* How much money is spent on medicinal drug recalls?
+  ** Drug recalls and prescription changes cost Americans millions of dollars annually. 
+* How much are Americans affected by drug recalls? And who is involved?
+  ** The United States experiences more drug recalls than any other country in the world. Almost 15,000 drugs have been recalled in the last decade. Drug pharmaceutical companies, pharmacies, insurance claim providers and medical professionals are all involved in drug recalls.  The medical professionals and patients are often the last to be informed.  
+* Is there a FinTech solution for this problem? 
+  ** The FPME will allow for open communication between everyone within the ecosystem, coordinate status updates, provide better health care management, and more transparency for patients. 
 
 
 ### References
