@@ -1,0 +1,1137 @@
+{
+  "accrual_periodicity": "monthly",
+  "additional_limitations": "",
+  "citation": "",
+  "contact_email": "ctrx@hcai.ca.gov",
+  "data_collection_tool": "https://siera.hcai.ca.gov/ ",
+  "data_license": "Terms of Use",
+  "de_identification_method": "A manufacturer may limit the information reported to that which is otherwise in the public domain or publicly available.",
+  "description": "This table is a list of wholesale acquisition cost (WAC) increases that exceed the WAC increase threshold of 16% for the period including the current quarter and the previous two calendar years for prescription drug products with a WAC greater than $40 for a course of therapy. WAC increase reports are submitted by prescription drug manufacturers to HCAI within a month after the end of the quarter in which the current WAC increase went effective. Key data elements include the national drug code (NDC) maintained by the FDA; narrative descriptions of the reasons for the increase in WAC; and the five-year history of WAC increases. A WAC Increase Report consists of 27 data elements that have been divided into two Excel data sets: Prescription Drugs WAC Increases and Prescription Drugs WAC Increase – 5 Year History. The data sets include manufacturer WAC Increase Reports received since January 1, 2018. The Prescription Drugs WAC Increases data set consists of the information prescription drug manufacturers submitted for data elements that pertain to the current WAC increase of a given report, including the amount of the current increase, the WAC after increase, and the effective date of the increase. The Prescription Drugs WAC Increase – 5 Year History data set consists of the information prescription drug manufacturers submitted for the data elements that comprise the 5-year history of WAC increases of a given report, including the amount of each increase and their effective dates. There are 3 types of WAC Increase data sets below; Monthly, Quarterly, and Annual. The Monthly data sets include the data in completed reports submitted by manufacturers for 2022, as of July 1, 2022. The Quarterly data sets (Q1 - Q4) include the data in completed reports submitted by manufacturers through Q3 of 2021 and are used for the WAC Increase interactive data graphs that can be found on the CTRx webpage. The Annual data sets include data in completed reports submitted by manufacturers for the specified year. The data sets may include reports that do not meet the specified minimum thresholds for reporting.\r\n\r\nThe Quick Guide explaining how to link the information in each data set to form complete reports is here: https://hcai.ca.gov/ml/v1/resources/document?rs:path=/Data-And-Reports/Documents/Topics/Cost-Transparency/Rx/QuickGuide_LinkingTheDatasets.pdf\r\n\r\nThe program regulations are available here: https://hcai.ca.gov/ml/v1/resources/document?rs:path=/Data-And-Reports/Documents/SIERA-Resources/Drug-Pricing-Reports/CTRx-Regulations-Text.pdf\r\nThe data format and file specifications are available here: https://hcai.ca.gov/ml/v1/resources/document?rs:path=/Data-And-Reports/Documents/SIERA-Resources/Drug-Pricing-Reports/CTRx-Data-Format-and-File-Specifications.pdf\r\n\r\nDATA NOTES: Due to recent changes in Excel capabilities, it is not recommended that you save these files to .csv format. If you do, when importing back into Excel the leading zeros in the NDC number column will be dropped. If you need to save it into a different format other than .xlsx it must be .txt\r\n\r\nDATA UPDATES: Annual datasets of reports from the preceding year are reviewed in the second half of the current year to identify if any revisions or additions have been made since the original release of the datasets. If revisions or additions have been found, an update of the datasets will be released. Datasets will be clearly marked with 'Updated' in their titles for convenient identification. Not all datasets may require an updated release. The review of previously released datasets will only be conducted once to determine if an updated release is necessary. Datasets with revisions or additions that may been made after the one-time review can be requested. These requests should be made via email at ctrx@hcai.ca.gov.",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "statewide",
+  "keywords": [
+    "WAC",
+    "cost transparency",
+    "prescription drug",
+    "price increase",
+    "sb17"
+  ],
+  "limitations": "Limitations",
+  "name": "prescription-drug-wholesale-acquisition-cost-wac-increases",
+  "program_web_page": "https://hcai.ca.gov/data-and-reports/cost-transparency/rx/",
+  "related_resources": "https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=I0A3FCDEF547D4575B3FD66D5D2F897BC&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default) ",
+  "resources": [
+    {
+      "format": "XLSX",
+      "hash": "575641d1f49238be7566f3969e8bcb93",
+      "name": "7-1-monthly-update-prescription-drug-wac-increases-excel",
+      "path": "7-1-monthly-update-prescription-drug-wac-increases-excel.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "OSHPD ID",
+            "type": "string"
+          },
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "Date Reported",
+            "type": "datetime"
+          },
+          {
+            "name": "NDC Number",
+            "type": "number"
+          },
+          {
+            "name": "Drug Product Description",
+            "type": "string"
+          },
+          {
+            "name": "WAC Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "number"
+          },
+          {
+            "name": "WAC After Increase",
+            "type": "number"
+          },
+          {
+            "name": "Patent Expiration Date",
+            "type": "datetime"
+          },
+          {
+            "name": "Drug Source Type",
+            "type": "string"
+          },
+          {
+            "name": "Unit Sales Volume in US",
+            "type": "number"
+          },
+          {
+            "name": "Unit Sales Volume Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Cost Increase Factors",
+            "type": "string"
+          },
+          {
+            "name": "Cost Increase Factors Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Change Improvement Description",
+            "type": "string"
+          },
+          {
+            "name": "Change Improvement Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Date",
+            "type": "datetime"
+          },
+          {
+            "name": "Company Acquired From",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Price Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Price Comment",
+            "type": "string"
+          },
+          {
+            "name": "WAC at Acquisition",
+            "type": "number"
+          },
+          {
+            "name": "WAC Year Prior to Acquisition",
+            "type": "number"
+          },
+          {
+            "name": "Year Drug Introduced to Market",
+            "type": "number"
+          },
+          {
+            "name": "WAC at Intro to Market",
+            "type": "number"
+          },
+          {
+            "name": "Supporting Documents",
+            "type": "string"
+          },
+          {
+            "name": "General Comments",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/351098ca-5a59-4461-9069-36c7dce4d0b0/download/wacincreasedata-june2022.xlsx",
+          "title": "7/1 Monthly Update - Prescription Drug WAC Increases (Excel)"
+        }
+      ],
+      "title": "7/1 Monthly Update - Prescription Drug WAC Increases (Excel)"
+    },
+    {
+      "format": "CSV",
+      "hash": "293e1017b3e3b6a750561aa9170b5988",
+      "name": "7-1-monthly-update-prescription-drug-wac-increases-csv",
+      "path": "7-1-monthly-update-prescription-drug-wac-increases-.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "OSHPD ID",
+            "type": "string"
+          },
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "Date Reported",
+            "type": "string"
+          },
+          {
+            "name": "NDC Number",
+            "type": "string"
+          },
+          {
+            "name": "Drug Product Description",
+            "type": "string"
+          },
+          {
+            "name": "WAC Effective Date",
+            "type": "string"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "string"
+          },
+          {
+            "name": "WAC After Increase",
+            "type": "string"
+          },
+          {
+            "name": "Patent Expiration Date",
+            "type": "string"
+          },
+          {
+            "name": "Drug Source Type",
+            "type": "string"
+          },
+          {
+            "name": "Unit Sales Volume in US",
+            "type": "string"
+          },
+          {
+            "name": "Unit Sales Volume Non-Public Indicator",
+            "type": "string"
+          },
+          {
+            "name": "Cost Increase Factors",
+            "type": "string"
+          },
+          {
+            "name": "Cost Increase Factors Non-Public Indicator",
+            "type": "string"
+          },
+          {
+            "name": "Change Improvement Description",
+            "type": "string"
+          },
+          {
+            "name": "Change Improvement Non-Public Indicator",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Date",
+            "type": "string"
+          },
+          {
+            "name": "Company Acquired From",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price Non-Public Indicator",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price Comment",
+            "type": "string"
+          },
+          {
+            "name": "WAC at Acquisition",
+            "type": "string"
+          },
+          {
+            "name": "WAC Year Prior to Acquisition",
+            "type": "string"
+          },
+          {
+            "name": "Year Drug Introduced to Market",
+            "type": "string"
+          },
+          {
+            "name": "WAC at Intro to Market",
+            "type": "string"
+          },
+          {
+            "name": "Supporting Documents",
+            "type": "string"
+          },
+          {
+            "name": "General Comments",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/2b01b208-81e8-4f6d-96bc-ea2215a027c5/download/wacincreasedata-june2022.csv",
+          "title": "7/1 Monthly Update - Prescription Drug WAC Increases (CSV)"
+        }
+      ],
+      "title": "7/1 Monthly Update - Prescription Drug WAC Increases (CSV)"
+    },
+    {
+      "format": "XLSX",
+      "hash": "e7d23e7610eec776d10edc32dd385257",
+      "name": "7-1-monthly-update-5-year-history-prescription-drug-wac-increases-excel",
+      "path": "7-1-monthly-update-5-year-history-prescription-drug-wac-increases-excel.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "NDC Number",
+            "type": "number"
+          },
+          {
+            "name": "Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "History Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "number"
+          },
+          {
+            "name": "WAC Amount",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/7494c7ce-8d12-465d-9815-480922e267a0/download/wac-5yearhistory-june2022.xlsx",
+          "title": "7/1 Monthly Update - 5 Year History - Prescription Drug WAC Increases (Excel)"
+        }
+      ],
+      "title": "7/1 Monthly Update - 5 Year History - Prescription Drug WAC Increases (Excel)"
+    },
+    {
+      "format": "CSV",
+      "hash": "46b5916fa669a2a7348909aabbb9a831",
+      "name": "7-1-monthly-update-5-year-history-prescription-drug-wac-increases-csv",
+      "path": "7-1-monthly-update-5-year-history-prescription-drug-wac-increases-.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "NDC Number",
+            "type": "string"
+          },
+          {
+            "name": "Effective Date",
+            "type": "string"
+          },
+          {
+            "name": "History Effective Date",
+            "type": "string"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "string"
+          },
+          {
+            "name": "WAC Amount",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/9961fac7-f145-4cf1-94f7-f2341638d8f2/download/wac-5yearhistory-june2022.csv",
+          "title": "7/1 Monthly Update - 5 Year History - Prescription Drug WAC Increases (CSV)"
+        }
+      ],
+      "title": "7/1 Monthly Update - 5 Year History - Prescription Drug WAC Increases (CSV)"
+    },
+    {
+      "format": "CSV",
+      "hash": "d402c0c1e131fd80af79445f818cab01",
+      "name": "prescription-drugs-wac-increases-data-dictionary",
+      "path": "prescription-drugs-wac-increases-data-dictionary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Field Title",
+            "type": "string"
+          },
+          {
+            "name": "Field Name",
+            "type": "string"
+          },
+          {
+            "name": "Data Type",
+            "type": "string"
+          },
+          {
+            "name": "Description",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/3a133d3f-da34-43ae-8171-14cdab782b1d/download/prescription-drug-wac-increase-data-dictionary.csv",
+          "title": "Prescription Drugs WAC Increases - Data Dictionary"
+        }
+      ],
+      "title": "Prescription Drugs WAC Increases - Data Dictionary"
+    },
+    {
+      "format": "CSV",
+      "hash": "7042fcd6f1e1bbad83a8901470bc9209",
+      "name": "prescription-drugs-wac-increases-5-year-history-data-dictionary",
+      "path": "prescription-drugs-wac-increases-5-year-history-data-dictionary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Field Name",
+            "type": "string"
+          },
+          {
+            "name": "Data Type",
+            "type": "string"
+          },
+          {
+            "name": "Description",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/5c0ca772-6c65-428a-a5b7-8c1ab35dbf57/download/prescription-drug-5-year-history-wac-increase-data-dictionary.csv",
+          "title": "Prescription Drugs WAC Increases - 5 Year History - Data Dictionary"
+        }
+      ],
+      "title": "Prescription Drugs WAC Increases - 5 Year History - Data Dictionary"
+    },
+    {
+      "format": "XLSX",
+      "hash": "b6add2019daa00f989e95bc9053df877",
+      "name": "q1-q3-2021-prescription-drugs-wac-increases",
+      "path": "q1-q3-2021-prescription-drugs-wac-increases.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "HCAI ID",
+            "type": "string"
+          },
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "Date Reported",
+            "type": "datetime"
+          },
+          {
+            "name": "NDC Number",
+            "type": "number"
+          },
+          {
+            "name": "Drug Product Description",
+            "type": "string"
+          },
+          {
+            "name": "WAC Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "number"
+          },
+          {
+            "name": "WAC After Increase",
+            "type": "number"
+          },
+          {
+            "name": "Patent Expiration Date",
+            "type": "datetime"
+          },
+          {
+            "name": "Drug Source Type",
+            "type": "string"
+          },
+          {
+            "name": "Unit Sales Volume in US",
+            "type": "number"
+          },
+          {
+            "name": "Unit Sales Volume Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Cost Increase Factors",
+            "type": "string"
+          },
+          {
+            "name": "Cost Increase Factors Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Change Improvement Description",
+            "type": "string"
+          },
+          {
+            "name": "Change Improvement Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Date",
+            "type": "datetime"
+          },
+          {
+            "name": "Company Acquired From",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Price Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Price Comment",
+            "type": "string"
+          },
+          {
+            "name": "WAC at Acquisition",
+            "type": "number"
+          },
+          {
+            "name": "WAC Year Prior to Acquisition",
+            "type": "number"
+          },
+          {
+            "name": "Year Drug Introduced to Market",
+            "type": "number"
+          },
+          {
+            "name": "WAC at Intro to Market",
+            "type": "number"
+          },
+          {
+            "name": "Supporting Documents",
+            "type": "string"
+          },
+          {
+            "name": "General Comments",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/34c373bb-cf9a-463e-93bf-6ae4ff3afad8/download/wacincreasedata-q1-q2-q3-2021.xlsx",
+          "title": "Q1-Q3 2021 Prescription Drugs WAC Increases"
+        }
+      ],
+      "title": "Q1-Q3 2021 Prescription Drugs WAC Increases"
+    },
+    {
+      "format": "CSV",
+      "hash": "0ae752addd2ffd78f547eb84cf96e329",
+      "name": "q1-q3-2021-prescription-drugs-wac-increases0",
+      "path": "q1-q3-2021-prescription-drugs-wac-increases0.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "HCAI ID",
+            "type": "string"
+          },
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "Date Reported",
+            "type": "string"
+          },
+          {
+            "name": "NDC Number",
+            "type": "string"
+          },
+          {
+            "name": "Drug Product Description",
+            "type": "string"
+          },
+          {
+            "name": "WAC Effective Date",
+            "type": "string"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "string"
+          },
+          {
+            "name": "WAC After Increase",
+            "type": "string"
+          },
+          {
+            "name": "Patent Expiration Date",
+            "type": "string"
+          },
+          {
+            "name": "Drug Source Type",
+            "type": "string"
+          },
+          {
+            "name": "Unit Sales Volume in US",
+            "type": "string"
+          },
+          {
+            "name": "Unit Sales Volume Non-Public Indicator",
+            "type": "string"
+          },
+          {
+            "name": "Cost Increase Factors",
+            "type": "string"
+          },
+          {
+            "name": "Cost Increase Factors Non-Public Indicator",
+            "type": "string"
+          },
+          {
+            "name": "Change Improvement Description",
+            "type": "string"
+          },
+          {
+            "name": "Change Improvement Non-Public Indicator",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Date",
+            "type": "string"
+          },
+          {
+            "name": "Company Acquired From",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price Non-Public Indicator",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price Comment",
+            "type": "string"
+          },
+          {
+            "name": "WAC at Acquisition",
+            "type": "string"
+          },
+          {
+            "name": "WAC Year Prior to Acquisition",
+            "type": "string"
+          },
+          {
+            "name": "Year Drug Introduced to Market",
+            "type": "string"
+          },
+          {
+            "name": "WAC at Intro to Market",
+            "type": "string"
+          },
+          {
+            "name": "Supporting Documents",
+            "type": "string"
+          },
+          {
+            "name": "General Comments",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/a34d4254-360a-4122-a180-7e8ef11e0f53/download/wacincreasedata-q1-q2-q3-2021.csv",
+          "title": "Q1-Q3 2021 Prescription Drugs WAC Increases"
+        }
+      ],
+      "title": "Q1-Q3 2021 Prescription Drugs WAC Increases"
+    },
+    {
+      "format": "XLSX",
+      "hash": "c91bd7942d12e7529a14a7a1feda0cad",
+      "name": "q1-q3-2021-prescription-drugs-wac-increases-5-year-history",
+      "path": "q1-q3-2021-prescription-drugs-wac-increases-5-year-history.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "NDC Number",
+            "type": "number"
+          },
+          {
+            "name": "Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "History Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "number"
+          },
+          {
+            "name": "WAC Amount",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/ccc65919-378c-408e-85fb-164e4975de58/download/wac-5yearhistory-q1-q2-q3-2021.xlsx",
+          "title": "Q1-Q3 2021 Prescription Drugs WAC Increases - 5 Year History"
+        }
+      ],
+      "title": "Q1-Q3 2021 Prescription Drugs WAC Increases - 5 Year History"
+    },
+    {
+      "format": "CSV",
+      "hash": "47cd0eedf5368258e71a05b6137c66ae",
+      "name": "q1-q3-2021-prescription-drugs-wac-increases-5-year-history0",
+      "path": "q1-q3-2021-prescription-drugs-wac-increases-5-year-history0.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "NDC Number",
+            "type": "string"
+          },
+          {
+            "name": "Effective Date",
+            "type": "string"
+          },
+          {
+            "name": "History Effective Date",
+            "type": "string"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "string"
+          },
+          {
+            "name": "WAC Amount",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/303d4074-4b85-40ad-b5ab-90d076ac5012/download/wac-5yearhistory-q1-q2-q3-2021.csv",
+          "title": "Q1-Q3 2021 Prescription Drugs WAC Increases - 5 Year History"
+        }
+      ],
+      "title": "Q1-Q3 2021 Prescription Drugs WAC Increases - 5 Year History"
+    },
+    {
+      "format": "XLSX",
+      "hash": "ebaf07d37fa04c401e3b61a332c7a23b",
+      "name": "q1-q4-2020-prescription-drugs-wac-increases",
+      "path": "q1-q4-2020-prescription-drugs-wac-increases.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "OSHPD ID",
+            "type": "string"
+          },
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "Date Reported",
+            "type": "datetime"
+          },
+          {
+            "name": "NDC Number",
+            "type": "number"
+          },
+          {
+            "name": "Drug Product Description",
+            "type": "string"
+          },
+          {
+            "name": "WAC Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "number"
+          },
+          {
+            "name": "WAC After Increase",
+            "type": "number"
+          },
+          {
+            "name": "Patent Expiration Date",
+            "type": "datetime"
+          },
+          {
+            "name": "Drug Source Type",
+            "type": "string"
+          },
+          {
+            "name": "Unit Sales Volume in US",
+            "type": "number"
+          },
+          {
+            "name": "Unit Sales Volume Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Cost Increase Factors",
+            "type": "string"
+          },
+          {
+            "name": "Cost Increase Factors Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Change Improvement Description",
+            "type": "string"
+          },
+          {
+            "name": "Change Improvement Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Date",
+            "type": "datetime"
+          },
+          {
+            "name": "Company Acquired From",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Price Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Price Comment",
+            "type": "string"
+          },
+          {
+            "name": "WAC at Acquisition",
+            "type": "number"
+          },
+          {
+            "name": "WAC Year Prior to Acquisition",
+            "type": "number"
+          },
+          {
+            "name": "Year Drug Introduced to Market",
+            "type": "number"
+          },
+          {
+            "name": "WAC at Intro to Market",
+            "type": "number"
+          },
+          {
+            "name": "Supporting Documents",
+            "type": "string"
+          },
+          {
+            "name": "General Comments",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/f3e4ba62-3df4-40dd-9876-f7aea7384c1b/download/q1-q4-2020-wacincreasedata.xlsx",
+          "title": "Q1-Q4 2020 Prescription Drugs WAC Increases"
+        }
+      ],
+      "title": "Q1-Q4 2020 Prescription Drugs WAC Increases"
+    },
+    {
+      "format": "XLSX",
+      "hash": "e65d7348ed524c5f45ee3748db8f954f",
+      "name": "q1-q4-2020-prescription-drugs-wac-increases-5-year-history",
+      "path": "q1-q4-2020-prescription-drugs-wac-increases-5-year-history.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "NDC Number",
+            "type": "number"
+          },
+          {
+            "name": "Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "History Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "number"
+          },
+          {
+            "name": "WAC Amount",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/b57d3435-a56c-4f74-83b3-d54775a005a2/download/q1-q4-2020-wac-5yearhistory.xlsx",
+          "title": "Q1-Q4 2020 Prescription Drugs WAC Increases - 5 Year History"
+        }
+      ],
+      "title": "Q1-Q4 2020 Prescription Drugs WAC Increases - 5 Year History"
+    },
+    {
+      "format": "XLSX",
+      "hash": "59a79bfc1174ea683d08c06911efae77",
+      "name": "q1-q4-2019-prescription-drugs-wac-increases",
+      "path": "q1-q4-2019-prescription-drugs-wac-increases.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "OSHPD ID",
+            "type": "string"
+          },
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "Date Reported",
+            "type": "datetime"
+          },
+          {
+            "name": "NDC Number",
+            "type": "number"
+          },
+          {
+            "name": "Drug Product Description",
+            "type": "string"
+          },
+          {
+            "name": "WAC Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "number"
+          },
+          {
+            "name": "WAC After Increase",
+            "type": "number"
+          },
+          {
+            "name": "Patent Expiration Date",
+            "type": "datetime"
+          },
+          {
+            "name": "Drug Source Type",
+            "type": "string"
+          },
+          {
+            "name": "Unit Sales Volume in US",
+            "type": "number"
+          },
+          {
+            "name": "Unit Sales Volume Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Cost Increase Factors",
+            "type": "string"
+          },
+          {
+            "name": "Cost Increase Factors Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Change Improvement Description",
+            "type": "string"
+          },
+          {
+            "name": "Change Improvement Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Date",
+            "type": "datetime"
+          },
+          {
+            "name": "Company Acquired From",
+            "type": "string"
+          },
+          {
+            "name": "Acquisition Price",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Price Non-Public Indicator",
+            "type": "number"
+          },
+          {
+            "name": "Acquisition Price Comment",
+            "type": "string"
+          },
+          {
+            "name": "WAC at Acquisition",
+            "type": "number"
+          },
+          {
+            "name": "WAC Year Prior to Acquisition",
+            "type": "number"
+          },
+          {
+            "name": "Year Drug Introduced to Market",
+            "type": "number"
+          },
+          {
+            "name": "WAC at Intro to Market",
+            "type": "number"
+          },
+          {
+            "name": "Supporting Documents",
+            "type": "string"
+          },
+          {
+            "name": "General Comments",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/9b8e12dc-1b3c-4c36-9ba9-adba6b921a6c/download/prescription-drug-wac-increase-data-q1-q2-q3-q4.xlsx",
+          "title": "Q1-Q4 2019 Prescription Drugs WAC Increases"
+        }
+      ],
+      "title": "Q1-Q4 2019 Prescription Drugs WAC Increases"
+    },
+    {
+      "format": "XLSX",
+      "hash": "e76ec86b344a8fbba0fcf5459733b25e",
+      "name": "q1-q4-2019-prescription-drugs-wac-increases-5-year-history",
+      "path": "q1-q4-2019-prescription-drugs-wac-increases-5-year-history.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "NDC Number",
+            "type": "number"
+          },
+          {
+            "name": "Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "History Effective Date",
+            "type": "datetime"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "number"
+          },
+          {
+            "name": "WAC Amount",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/568dc2b7-c493-431a-8113-49c6bcad0457/download/prescription-drug-5-year-history-data-q1-q2-q3-q4.xlsx",
+          "title": "Q1-Q4 2019 Prescription Drugs WAC Increases - 5 Year History"
+        }
+      ],
+      "title": "Q1-Q4 2019 Prescription Drugs WAC Increases - 5 Year History"
+    },
+    {
+      "description": "This dataset is a subset of the CTRx data presenting diabetes related treatments. This table is a list of wholesale acquisition cost (WAC) increases that exceed the WAC increase threshold of 16% for the period including the current quarter and the previous two calendar years for prescription drug products with a WAC greater than $40 for a course of therapy.  HCAI also reports on preventable hospitalizations for diabetes:  https://hcai.ca.gov/visualizations/preventable-hospitalizations-for-diabetes/.  \r\n\r\nThe diabetes drugs included in this analysis are based on the Nevada Department of Health and Human Services’ Essential Diabetes and Asthma Drug List: \r\n\r\nhttps://dhhs.nv.gov/HCPWD/Drug_Transparency",
+      "format": "XLSX",
+      "hash": "bf1f621f52ba9e89f81b338a35109eb8",
+      "name": "diabetes-ndcs-wac-increases",
+      "path": "diabetes-ndcs-wac-increases.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Manufacturer Name",
+            "type": "string"
+          },
+          {
+            "name": "NDC Number",
+            "type": "number"
+          },
+          {
+            "name": "Effective Date",
+            "type": "string"
+          },
+          {
+            "name": "History Effective Date",
+            "type": "string"
+          },
+          {
+            "name": "WAC Increase Amount",
+            "type": "number"
+          },
+          {
+            "name": "WAC Amount",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0c693b50-6d23-46a0-a1ae-7c320fe23dff/resource/69a98f92-ce08-46de-a719-1743744a761e/download/diabetes-ndcs-wac-increases.xlsx",
+          "title": "Diabetes NDCs WAC Increases"
+        }
+      ],
+      "title": "Diabetes NDCs WAC Increases"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Accounting and Reporting Systems Section, Information Services Division"
+    }
+  ],
+  "temporal_coverage": "July 2022",
+  "title": "Prescription Drug Wholesale Acquisition Cost (WAC) Increases"
+}

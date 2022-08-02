@@ -1,0 +1,7 @@
+Field Name,Data Type,Description
+Manufacturer,Plain Text,The entity that 1) holds the NDC for a prescription drug; and 2) Is described in Health and Safety Code Section 127675.
+NDC,Plain Text,"A three-segment code maintained by the federal Food and Drug Administration that includes a labeler code, a product code, and a package code for a drug product and that has been converted to an 11-digit format consisting of five digits in the first segment, four digits in the second segment, and two digits in the third segment."
+Current WAC Effective Date,Date,The effective date of the current increase to the wholesales acquisition cost of the drug product.
+Historical WAC Effective Date,Date,The effective date of a historical increase to the wholesale acquisition cost of the drug product.
+WAC Increase Amount,Number,The amount of wholesale acquisition cost increase for the drug product.
+WAC After Increase,Number,The wholesale acquisition cost resulting from the reported cost increase for the drug product.
