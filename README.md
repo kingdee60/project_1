@@ -5,7 +5,7 @@
 ### Technology Advancement 
 
 A FinTech solution to revolutionize and connect medical pharmaceutical companies, drug pharmacies, medical practitioners, and insurance providers to consumers. 
-<img src="Images\FPME.png"  width="1000" height="425">
+<img src="Images\FPME.png"  width="800" height="425">
 
 ### Problem Statement
 
