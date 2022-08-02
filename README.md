@@ -5,6 +5,7 @@
 ### Technology Advancement 
 
 A FinTech solution to revolutionize and connect medical pharmaceutical companies, drug pharmacies, medical practitioners, and insurance providers to consumers. 
+
 <img src="Images\FPME.png"  width="800" height="425">
 
 ### Problem Statement
@@ -37,9 +38,13 @@ Consumers’ use of prescription drugs has increased over time. Today, approxima
 
 <img src="Images\Gruber-drug-recall-CDC-report.png" width="800" height="350">
 
+
+
 ### Project Objective 
 
 Create a solution that helps consumers to find the appropiate medication in a local phamarcy and to minimize untimely recall logistics with drug pharmaceutical companies, pharmacies, insurance claim providers and medical professionals. 
+
+
 
 ### Questions Answered
 * How much money is spent on medicinal drug recalls?
