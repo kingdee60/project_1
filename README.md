@@ -80,8 +80,13 @@ Create a solution that helps consumers to find the appropiate medication in a lo
 * Pfizer                https://www.pfizercentreone.com/api-finder
 * WalGreens             https://developer.walgreens.com/sites/default/files/v1_RXRefillAPI.html
 * Google Earth          https://developers.google.com/earth-engine/apidocs
+<<<<<<< HEAD
 * Medicare Part D Prescribers  https://data.cms.gov/data-api/v1/dataset/83891e77-99cf-4865-b60a-97703b916e09/data
 * FDA https://datadashboard.fda.gov/ora/api/index.htm
+=======
+* FEDEX                 https://datadashboard.fda.gov/ora/api/index.htm
+
+>>>>>>> 5d793e02160459c7e3f9fa492120045c90fa3451
 
 
 
